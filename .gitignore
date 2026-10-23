@@ -1,6 +1,5 @@
 #environment variables
 env/
-.env
 footprint/*
 python3/*
 app/__pycache__/*
@@ -11,3 +10,5 @@ branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+config.bat
+node_modules
